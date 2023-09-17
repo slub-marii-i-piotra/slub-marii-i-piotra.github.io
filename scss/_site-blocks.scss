@@ -193,7 +193,7 @@
 					height: 200px;
 				}
 			}
-			&:hover &:active {
+			&:hover &:focus {
 				img {
 					transform: scale(1.02);
 				}
