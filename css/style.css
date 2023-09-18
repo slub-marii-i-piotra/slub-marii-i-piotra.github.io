@@ -820,6 +820,7 @@ h1, h2, h3, h4, h5,
       color: #fff; }
 
 .site-section-hero {
+  background-image:url('https://slub-marii-i-piotra.github.io/images/image0.jpg');
   position: relative;
   margin-top: 3px; }
   .site-section-hero:before {
